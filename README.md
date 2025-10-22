@@ -168,4 +168,4 @@ Dashboard dibagi menjadi **tiga halaman utama** untuk menjawab pertanyaan bisnis
 ## 👤 Author
 **Yazid Abdullah Subhi**  
 _Data Enthusiast | data analyst & data science_  
-📧 [yazidabd@gmail.com](mailto:yazidabd@gmail.com)
+📧 [yazidabdhi@gmail.com](mailto:yazidabdhi@gmail.com)
